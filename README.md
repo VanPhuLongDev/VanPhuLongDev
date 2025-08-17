@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Long  
 
-<!--
-**VanPhuLongDev/VanPhuLongDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend developer with a passion for building scalable and reliable systems.  
+🌱 Always learning, especially in AI/ML and modern backend technologies.  
+⚡ Love turning ideas into code and solving real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- **Languages:** Java, Python, JavaScript/TypeScript, SQL  
+- **Frameworks:** Spring Boot, FastAPI, Langchain, ReactJS  
+- **Databases:** MySQL, PostgreSQL, Redis  
+- **Tools:** Docker, Kubernetes, WebSocket  
+
+---
+
+## 🌟 A bit about me  
+- 📖 Enjoy exploring tech trends & experimenting with new tools  
+- 🎮 Gamer in free time  
+- ☕ Coffee enthusiast  
+
+---
+
+📬 **Let’s connect:**  
+- [Email](vanphulong02@gmail.com)  
